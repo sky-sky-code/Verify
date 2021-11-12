@@ -1,0 +1,17 @@
+.idea
+
+idea
+
+venv
+
+__pycache__/
+*/__pycahe__/
+
+settings/__init__.py
+api/__init__.py
+verify/__ini__.py
+migrations/__init__.py
+logics/__init__.py
+tests/__init__.py
+user/__init__.py
+common/__init__.py
